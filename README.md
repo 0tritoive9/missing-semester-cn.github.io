@@ -12,7 +12,7 @@ Contributions are most welcome! If you have edits or new content to add, please 
 To build and view the site locally, run:
 
 ```bash
-bundle exec jekyll serve -w
+bundle exec jekyll se
 ```
 
 ## License
